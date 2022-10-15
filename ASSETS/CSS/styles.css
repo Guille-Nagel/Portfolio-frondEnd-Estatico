@@ -1,0 +1,45 @@
+body{
+    background-image: url(../IMG/play3.pexels-photo-8193396.jpeg);
+background-size: 100%;
+background-repeat: no-repeat;
+min-height: 100vh;
+}
+
+.navbar.navbar-expand-lg.bg-primary{
+    background-color: rgb(0, 17, 255) !important;
+}
+i.fa-brands.fa-linkedin.fa-2xl{
+  color: rgb(255, 255, 255);
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: rgb(0, 0, 0);
+  }
+i.fa-solid.fa-user.fa-2xl:hover{
+    color: rgb(255, 255, 255);
+}
+i.fa-solid.fa-user-lock.fa-2xl:hover{
+    color: rgb(255, 255, 255);
+}
+i.fa-brands.fa-github.fa-2xl{
+    color: rgb(255, 255, 255);
+}
+i.fa-brands.fa-github.fa-2xl:hover{
+    color: rgb(0, 0, 0);
+}
+i.fa-brands.fa-instagram.fa-2xl{
+    color: rgb(255, 255, 255);
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color: rgb(0, 0, 0);
+}
+ 
+  
+.list-group{
+    --bs-list-group-bg: transparent;
+}
+.list-group{
+    --bs-list-group-border-color: transparent;
+}
+section.about{
+   margin-top: 10rem;
+}
